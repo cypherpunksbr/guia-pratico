@@ -7,43 +7,76 @@ Antes de tudo, vamos começar listando os conhecimentos que você alcançará, n
 ## Roadmap:
 
 0. Introdução
+
 0.0. O que é um _cypherpunk_ ?
+
 0.1. Por que a privacidade importa?
+
 0.2. Libertarianismo 101
+
 0.3. Software Livre e Open Source
+
 0.4. O que é o Projeto Cypherpunks Brasil?
 
+
 1. Privacidade e Segurança
+
 1.0. Aviso: Você está sendo vigiado
+
 1.1. Privacidade _vs_ Segurança
+
 1.2. De quem eu devo me proteger?
+
 1.3. Navegadores
+
 1.3.0. Trackers (Rastreadores)
+
 1.3.1. Cookies
+
 1.3.2. Fingerprint (Impressão Digital)
+
 1.3.3. Navegadores que protegem sua privacidade
+
 1.3.4. Extensões para navegadores
+
 1.4. Protegendo o seu IP
+
 1.4.0. VPN _vs_ Tor
+
 1.4.1. VPN
+
 1.4.3. Tor
+
 1.4.4. DNS
+
 1.5. HTTPS
+
 1.6. Motores de Busca
+
 1.7. Email
+
 1.7.0. PGP
+
 1.8. Firewall
 
 2. Linux 
+
 2.0. Qual é o problema do Windows?
+
 2.1. O que é o Linux, exatamente?
 
 3. Criptologia
+
 3.0. O que é a criptologia?
+
 3.1. Um pouco da história da criptologia
+
 3.2. A importância da criptografia no mundo
+
 3.3. Criptografia Simétrica
+
 3.4. Criptografia Assimétrica
+
 3.5. Softwares
 
 4. O Bitcoin

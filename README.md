@@ -38,7 +38,7 @@
   <p align="center">
     Textos introdutórios no projeto Cypherpunks Brasil e no movimento cypherpunk
     <br />
-    <a href="https://github.com/cypherpunksbr/guia-pratico"><strong>Ler »</strong></a>
+    <a href="https://github.com/cypherpunksbr/guia-pratico/blob/main/cypherpunks-brasil-guia-pratico.md"><strong>Ler »</strong></a>
     <br />
     <br />
     <a href="https://github.com/cypherpunksbr/guia-pratico/issues">Reporte um erro</a>

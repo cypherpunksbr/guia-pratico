@@ -26,15 +26,14 @@
 [![CC0 License][license-shield]][license-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/cypherpunksbr/guia-pratico">
-    <img src="https://cypherpunks.com.br/_pages/img/cypherInvertTranslucid.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="100">
   </a>
 
-  <h3 align="center"></h3>
+  <h3 align="center">Cypherpunks Brasil: Guia Prático</h3>
 
   <p align="center">
     Textos introdutórios no projeto Cypherpunks Brasil e no movimento cypherpunk
@@ -42,8 +41,6 @@
     <a href="https://github.com/cypherpunksbr/guia-pratico"><strong>Ler »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/cypherpunksbr/guia-pratico">View Demo</a>
-    ·
     <a href="https://github.com/cypherpunksbr/guia-pratico/issues">Reporte um erro</a>
     ·
     <a href="https://github.com/cypherpunksbr/guia-pratico/issues">Peça por um assunto específico</a>
@@ -56,126 +53,55 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#sobre">Sobre</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contribuindo">Contribuindo</a></li>
+    <li><a href="#licença">Licença</a></li>
+    <li><a href="#agradecimentos">Agradecimentos</a></li>
   </ol>
 </details>
 
-
+,
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
-
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+A ideia desse projeto começou quando percebemos que a comunidade estava recebendo uma leva grande de novos membros que vinham pelos mais diversos motivos, desde aperfeiçoar seus conhecimentos a discutir assuntos complexos ou até a mera curiosidade. Tendo isso em mente, achamos que já era passada a hora de escrever um conteúdo para ensinar sobre o movimento Cypherpunk. Procuramos apresentar principalmente a história e ideais, mas esse texto não é um manifesto e falamos apenas pela nossa organização, com uma bela coleção de tutoriais técnicos nas ferramentas que possibilitam a construção de uma internet livre.
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+Ordem de prioridade:
+  1. Corrigir quaisquer erros gramaticais.
+  2. Completar todo o conteúdo proposto no índice
+  3. Adicionar conteúdo solicitado nos [issues](https://github.com/cypherpunksbr/guia-pratico/issues)
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuindo
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Todas as contribuições são não apenas bem-vindas como também incentivadas. Os contribuidores não devem se preocupar em seguir umalinha editorial muito engessada, em todo caso serão feitas alterações no trabalho final para manter a harmonia entre os diferentes estilos de escrita. Doses de humor são permitidas, mas todas as contribuições devem seguir o [Código de Conduta](https://github.com/cypherpunksbr/comunidade/blob/main/CODE_OF_CONDUCT.md).
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Faça um Fork
+2. Crie e commite suas contribuições num Feature Branch (`git checkout -b feature/AmazingFeature` e `git commit -m 'Add some AmazingFeature'`)
+3. Push para oBranch (`git push origin feature/AmazingFeature`)
+4. Abra uma Pull Request e considere nossos agradecimentos
 
 
 
 <!-- LICENSE -->
-## License
+## Licença
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Todo o conteúdo está disponível sob a Licença [Creative Commons Zero](https://github.com/cypherpunksbr/guia-pratico/blob/main/LICENSE), a não ser que já possua outra licença.
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Agradecimentos
 
-* []()
-* []()
-* []()
-
+* [Z33DD](https://keybase.io/z33dd)
 
 
 
@@ -192,3 +118,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/cypherpunksbr/guia-pratico/issues
 [license-shield]: https://img.shields.io/github/license/cypherpunksbr/guia-pratico.svg?style=for-the-badge
 [license-url]: https://github.com/cypherpunksbr/guia-pratico/blob/master/LICENSE
+
+[product-screenshot]: https://de.bitcoinwiki.org/upload/de/images/thumb/1/12/Cypherpunk.jpeg/500px-Cypherpunk.jpeg

@@ -86,9 +86,14 @@ Antes de tudo, vamos começar listando os conhecimentos que você alcançará, n
 
 Esses tópicos introdutórios devem familiarizar o leitor com o contexto em que o Cypherpunks Brasil foi criado e a importância desse tipo de movimento para a liberdade. Também é importante ressaltar a Ética que guia o projeto, a Ética Libertária. Esse é o mínimo ético universal e atemporal no qual o libertarianismo está firmado e também onde o projeto se sustenta. Todo o trabalho do Cypherpunks Brasil tem como objetivo final minimizar violações ao Princípio de Não-Agressão (PNA).
 
+
 ### O que é um _cypherpunk_ ?
 
-O movimento _Cypherpunk_ começa como movimento organizado nos anos 80 logo após a primeira publicação de criptografia de chave pública por Whitfield Diffie e Martin Hellman. 
+Um _cypherpunk_ é qualquer indivíduo que concientemente defende o uso generalizado de uma criptografia robusta e tecnologia para implementar privacidade, segurança e soberania individual como via de tranformação política e civil.   
+
+O movimento _Cypherpunk_ começa como movimento organizado nos anos 80 logo após a primeira publicação do artigo "New Directions in Cryptography" ("Novas direções na criptografia") por Whitfield Diffie e Martin Hellman em 1976, o ponto de partida da criptologia moderna. Até então a criptologia era exclusividade dos setor bélico e das agências de inteligência, após a publicação, acadêmicos de todo o mundo passaram a desenvolver pesquisas e inalgurando uma nova era nesse campo a tempos esquecido. 
+
+Essa leva de conhecimento e descobertas ganham viés filosófico em 1985 com a publicação "Security without Identification: Transaction Systems to Make Big Brother Obsolete" ("Segurança sem identificação: Sistemas de transações para tornar o Grandde Irmão obsoleto") de David Chaum.
 
 
 ## Referências

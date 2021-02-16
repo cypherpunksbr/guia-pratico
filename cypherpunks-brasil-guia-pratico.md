@@ -89,11 +89,15 @@ Esses tópicos introdutórios devem familiarizar o leitor com o contexto em que 
 
 ### O que é um _cypherpunk_ ?
 
-Um _cypherpunk_ é qualquer indivíduo que concientemente defende o uso generalizado de uma criptografia robusta e tecnologia para implementar privacidade, segurança e soberania individual como via de tranformação política e civil.   
+Um _cypherpunk_ é qualquer indivíduo que concientemente defende o uso generalizado de criptografia robusta e tecnologia para implementar privacidade, segurança e soberania individual como via de tranformação política e civil.
 
 O movimento _Cypherpunk_ começa como movimento organizado nos anos 80 logo após a primeira publicação do artigo "New Directions in Cryptography" ("Novas direções na criptografia") por Whitfield Diffie e Martin Hellman em 1976, o ponto de partida da criptologia moderna. Até então a criptologia era exclusividade dos setor bélico e das agências de inteligência, após a publicação, acadêmicos de todo o mundo passaram a desenvolver pesquisas e inalgurando uma nova era nesse campo a tempos esquecido. 
 
-Essa leva de conhecimento e descobertas ganham viés filosófico em 1985 com a publicação "Security without Identification: Transaction Systems to Make Big Brother Obsolete" ("Segurança sem identificação: Sistemas de transações para tornar o Grandde Irmão obsoleto") de David Chaum.
+Essa leva de conhecimento e descobertas ganham viés filosófico em 1985 com a publicação "Security without Identification: Transaction Systems to Make Big Brother Obsolete" ("Segurança sem identificação: Sistemas de transações para tornar o Grande Irmão obsoleto") de David Chaum. Antes disso, Chaum já havia publicado em 1982 "Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups"("Sistemas computacionais estabelecidos, mantidos e atestados por grupos mutualmente desconfiados") com a proposta inicial do que hoje chamamos de blockchain. 
+
+No final dos anos 80, as ideias de Chaum e outros cuminaram em um movimento organizado na forma da Lista de Email dos Cypherpunks. A lista foi fundada em 1992 por Eric Hughes, um matemático e programador, Timothy C. May, um engenheiro elétrico e notório cripto-anarquista, e John Gilmore, um libertário ativista do software livre.
+
+Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se mesclavam a discussões técnicas sobre matemática, computação e, principalmente, criptografia. 
 
 
 ## Referências

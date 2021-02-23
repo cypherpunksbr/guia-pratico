@@ -91,14 +91,51 @@ Esses tópicos introdutórios devem familiarizar o leitor com o contexto em que 
 
 Um _cypherpunk_ é qualquer indivíduo que concientemente defende o uso generalizado de criptografia robusta e tecnologia para implementar privacidade, segurança e soberania individual como via de tranformação política e civil.
 
-O movimento _Cypherpunk_ começa como movimento organizado nos anos 80 logo após a primeira publicação do artigo "New Directions in Cryptography" ("Novas direções na criptografia") por Whitfield Diffie e Martin Hellman em 1976, o ponto de partida da criptologia moderna. Até então a criptologia era exclusividade dos setor bélico e das agências de inteligência, após a publicação, acadêmicos de todo o mundo passaram a desenvolver pesquisas e inalgurando uma nova era nesse campo a tempos esquecido. 
+O movimento _cypherpunk_ começa como movimento organizado nos anos 80 logo após a primeira publicação do artigo "New Directions in Cryptography" ("Novas direções na criptografia") por Whitfield Diffie e Martin Hellman em 1976, o ponto de partida da criptologia moderna. Até então a criptologia era exclusividade do setor bélico e das agências de inteligência, após a publicação, acadêmicos de todo o mundo passaram a desenvolver pesquisas inalgurando uma nova era nesse campo a tempos esquecido. 
 
 Essa leva de conhecimento e descobertas ganham viés filosófico em 1985 com a publicação "Security without Identification: Transaction Systems to Make Big Brother Obsolete" ("Segurança sem identificação: Sistemas de transações para tornar o Grande Irmão obsoleto") de David Chaum. Antes disso, Chaum já havia publicado em 1982 "Computer Systems Established, Maintained, and Trusted by Mutually Suspicious Groups"("Sistemas computacionais estabelecidos, mantidos e atestados por grupos mutualmente desconfiados") com a proposta inicial do que hoje chamamos de blockchain. 
 
 No final dos anos 80, as ideias de Chaum e outros cuminaram em um movimento organizado na forma da Lista de Email dos Cypherpunks. A lista foi fundada em 1992 por Eric Hughes, um matemático e programador, Timothy C. May, um engenheiro elétrico e notório cripto-anarquista, e John Gilmore, um libertário ativista do software livre.
 
-Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se mesclavam a discussões técnicas sobre matemática, computação e, principalmente, criptografia. 
+Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se mesclavam a discussões técnicas sobre matemática, computação e, principalmente, criptografia.
 
+#### Cypherpunks Clássicos
+
+- **Adam Back**: Invertor do HashCash, um sistema para evitar spam de email que deu origem ao proof-of-work (prova de trabalho) usado no bitcoin. Co-fundador da empresa de cripto-tecnologia (BlockStream)[1].
+
+- **David D. Friedman**: Filho do renomado economista austríaco Milton Friedman, é um importante economista e teórico anarco-captalista autor do livro "The Machinery of Freedom"("O Maquinário da Liberdade").
+
+- **Eric Hughes**: Fundador da lista de email Cypherpunk e criador do primeiro redirecionador anônimo de emails.
+
+- **Gregory Maxwell**: Importante desenvolvedor do Bitcoin Core, autor de importantes mudanças da rede como a BIP32 e a Prova de Solvência.
+
+- **Hal Finney**: Criador do Reusable Proof of Work (RPW), "prova de trabalho reusável", que foi usado nas primeiras criptomoedas e hoje integra o Bitcoin. Também recebeu a primeira transação de bitcoin da história.
+
+- **Ian Grigg**: Inventor dos (Contratos Ricardianos)[2], uma forma primitiva de contratos digitais baseados em assinaturas criptográficas.
+
+- **Jim Bell**: É um cripto-anarquista que propôs a ideia de Mercados Anônimos de Assassinato com Bitcoin aos quais ele chamou de ("Assassination Politics")[3]. Fundador do (Jim Bell Project)[4]
+
+- **John Gilmore**: Ativista libertário que ajudou a criar o que se tornou o protocolo DHCP e fundou a Eletronic Frountier Foundation (EFF), a maior ONG de proteção a privacidade e liberdade da Internet.
+
+- **John Perry Barlow**: Autor da (Declaração de Independência do Cyberespaço)[5].
+
+- **Julian Assange**: Hacker e ativista fundador do WikiLeaks, site internacional sem fins lucrativos que publica vazamentos e delações de empresas e governos. Criador da criptografia (Rubberhose)[6].
+
+- **Nick Szabo**: Cientista da computação e criptógrafo que criou o BitGold, precursor do Bitcoin, e fez algumas das primeiras contribuições para o código do Bitcoin.
+
+- **Paul Calder Le Roux (pseudônimo)**: Programador e ex-chefe de cartel de drogas e armas, associado a criação do TrueCrypt e o RX Limited, participando de um golpe de estado e adepto de teorias sociais próximas aos cypherpunks.
+
+- **Phil Zimmermann**: Criador do "Pretty Good Privacy"(PGP), software de criptografia revolucionário usado até hoje em todo tipo de comunicações, e um dos mais importantes criptólogos da história.
+
+- **Pretty Good Privacy**: Um dos desenvolvedores mais ativos do Bitcoin Core e co-fundador da BlockStream.
+
+- **Satoshi Nakamoto (pseudônimo)**: Figura misteriosa por trás da criação do Bitcoin, vários membros da Lista de Email podem ter sido o satoshi, mas sua identidade é incerta até hoje.
+
+- **Timothy C. May**: Engenheiro da Intel, libertário, membro fundador dos Cypherpunks e criador do "Manifesto Cripto-Anarquista" e do "Cyphernomicon". "Um espectro está rondando o mundo moderno, o espectro da cripto-anarquia." (~ Timothy C. May - Manifesto Cripto-Anarquista)[7].
+
+- **Vinay Gupta**: Inventor do (Hexayurt)[8]
+
+- **Wei Dai**: Programador e criptógrafo criador do B-money, um dos mais importantes predecessores do Bitocin, e da biblioteca criptográfica Crypto++.
 
 ## Referências
 
@@ -113,3 +150,12 @@ Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se m
 - [Guia Foca](https://guiafoca.org/)
 - [The Handbook of Applied Criptography](http://cacr.uwaterloo.ca/hac/)
 - [r/cripto Wiki](https://www.reddit.com/r/crypto/wiki/index)
+
+[1](https://en.wikipedia.org/wiki/Blockstream)
+[2](https://iang.org/papers/ricardian_contract.html)
+[3](http://cryptome.org/ap.htm)
+[4](https://jimbellproject.org/)
+[5](https://www.eff.org/cyberspace-independence)
+[6](https://en.wikipedia.org/wiki/Rubberhose_(file_system))
+[7](https://odysee.com/@avelinomorganti:7/o-manifesto-criptoanarquista-timothy-c:e)
+[8](http://hexayurt.capital/)

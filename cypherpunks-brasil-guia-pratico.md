@@ -135,7 +135,17 @@ Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se m
 
 - **Vinay Gupta**: Inventor do (Hexayurt)[8]
 
-- **Wei Dai**: Programador e criptógrafo criador do B-money, um dos mais importantes predecessores do Bitocin, e da biblioteca criptográfica Crypto++.
+- **Wei Dai**: Programador e criptógrafo criador do B-money, um dos mais importantes predecessores do Bitcoin, e da biblioteca criptográfica Crypto++.
+
+
+### Por que a privacidade importa?
+
+> Conhecimento é poder; Conhecimento sobre si é poder sobre si. A sua informação será usada para antecipar as suas ações e manipular a forma como compra, vota, e pensa.    - whyprivacymatters.org
+
+Desde o final da era moderna, a humanidade começou a perceber a importância da informação. A consolidação da idade moderna abriu nossos olhos para a realidade nua e crua: informação é poder. Mas poder sobre o que? Obviamente, sobre o assunto do qual se toma conhecimento. O conhecimento sobre a natureza, por exemplo, nos permitiu transforma-la e exercer domínio sobre todos os outros seres vivos. O mesmo acontece com seres humanos, quanto mais informação uma organização possui sobre você, mais fácil se torna para essa mesma organização te controlar, influenciar e manipular. 
+
+A únia função da vigilância é anteceder a violência. Afinal, quem instalaria câmeras de segurança em uma residência caso soubesse que nem a polícia irá vir ou que não dispôe de armas para defendê-la? Um estado apenas vigia seus cidadãos se tiver intensão de usar repressão contra eles.
+
 
 ## Referências
 

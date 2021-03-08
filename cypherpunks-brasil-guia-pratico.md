@@ -144,7 +144,7 @@ Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se m
 
 Desde o final da era moderna, a humanidade começou a perceber a importância da informação. A consolidação da idade moderna abriu nossos olhos para a realidade nua e crua: informação é poder. Mas poder sobre o que? Obviamente, sobre o assunto do qual se toma conhecimento. O conhecimento sobre a natureza, por exemplo, nos permitiu transforma-la e exercer domínio sobre todos os outros seres vivos. O mesmo acontece com seres humanos, quanto mais informação uma organização possui sobre você, mais fácil se torna para essa mesma organização te controlar, influenciar e manipular. 
 
-A únia função da vigilância é anteceder a violência. Afinal, quem instalaria câmeras de segurança em uma residência caso soubesse que nem a polícia irá vir ou que não dispôe de armas para defendê-la? Um estado apenas vigia seus cidadãos se tiver intensão de usar repressão contra eles.
+Uma das funções da vigilância é preceder a violência. Afinal, quem instalaria câmeras de segurança em uma residência caso soubesse que nem a polícia irá vir ou que não dispôe de armas para defendê-la? Um estado apenas vigia seus cidadãos se tiver intensão de usar repressão contra eles. Quem deve teme, e teme principalmente no longo prazo.
 
 
 ## Referências

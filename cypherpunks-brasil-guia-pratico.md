@@ -16,7 +16,9 @@ Antes de tudo, vamos começar listando os conhecimentos que você alcançará, n
 
 0.3. Software Livre e Open Source
 
-0.4. O que é o Projeto Cypherpunks Brasil?
+0.4. Copiar não é roubar
+
+0.5. O que é o Projeto Cypherpunks Brasil?
 
 
 1. Privacidade e Segurança
@@ -142,10 +144,28 @@ Em 1994 a lista havia se tornado num espaço livre onde ideias libertárias se m
 
 > Conhecimento é poder; Conhecimento sobre si é poder sobre si. A sua informação será usada para antecipar as suas ações e manipular a forma como compra, vota, e pensa.    - whyprivacymatters.org
 
-Desde o final da era moderna, a humanidade começou a perceber a importância da informação. A consolidação da idade moderna abriu nossos olhos para a realidade nua e crua: informação é poder. Mas poder sobre o que? Obviamente, sobre o assunto do qual se toma conhecimento. O conhecimento sobre a natureza, por exemplo, nos permitiu transforma-la e exercer domínio sobre todos os outros seres vivos. O mesmo acontece com seres humanos, quanto mais informação uma organização possui sobre você, mais fácil se torna para essa mesma organização te controlar, influenciar e manipular. 
+Desde o final da era moderna, a humanidade começou a perceber a importância da informação. A consolidação da idade moderna abriu nossos olhos para a realidade: informação é poder, poder sore o que se sabe. O conhecimento sobre a natureza, por exemplo, nos permitiu transforma-la e exercer domínio sobre todos os outros seres vivos. O mesmo acontece com seres humanos, quanto mais informação uma organização possui sobre você, mais fácil se torna para essa mesma organização te controlar, influenciar e manipular. 
 
-Uma das funções da vigilância é preceder a violência. Afinal, quem instalaria câmeras de segurança em uma residência caso soubesse que nem a polícia irá vir ou que não dispôe de armas para defendê-la? Um estado apenas vigia seus cidadãos se tiver intensão de usar repressão contra eles. Quem deve teme, e teme principalmente no longo prazo.
+Uma das funções da vigilância é preceder a violência. Afinal, quem instalaria câmeras de segurança em uma residência caso soubesse que tanto a polícia irá vir e nem possui arma alguma para defendê-la? Um estado apenas vigia seus cidadãos se tiver intensão de usar repressão contra eles. Quem deve teme, e teme principalmente no longo prazo.
 
+O termo tem a ver com a intimidade pessoal ou de grupo definido de pessoas. Ou seja, com aquilo que é particular, reservado, secreto, que é nosso e só interessa a nós mesmos, sendo inviolável. logo temos o dever de repudiar toda e qualquer agressão a esse intimo e legitimo espaço que nos é pessoal por direito. Logo, o individuo tem a possibilidade de recorrer à solidão; ao que é desconhecido (oculto, inclusive) e a viver, até onde lhe for possível, no anonimato.
+
+
+### Libertarianismo 101
+
+### Software Livre e Open Source
+
+Um software é livre e open source quando sua licença permite que qualquer um o use, copie, estude e distribua de qualquer forma. Por consequência, o código fonte deve ser abertamente compartilhado para que pessoas se sintam motivadas a voluntariamente melhorá-lo. Isso é o oposto ao chamado software proprietário, que estão sob licenças de copyright que punem sua distribuição não autorizada e os quais o código fonte é mantido em sigilo.
+
+Um software livre é definido pelas 4 Liberdades:
+- 0: A liberdade de executar o código como você quiser e para qualquer finalidade.
+- 1: A liberdade para estudar como o programa funciona, e alterá-lo para funcionar como você deseja.
+- 2: A liberdade de copiar e distribuir o software, assim você pode ajudar aos outros.
+- 3: A liberdade de distribuir cópias modificadas do programa. Fazendo isso, você pode dar a toda a comunidade a chance de se baneficiar das mudanças que você fez.
+
+Ao preferir softwares livres em relação aos proprietários, o usuário obtém diversas vatagens, como mais privacidade e segurança visto que esses programas são analizados e corrigidos por comunidades de milhares de desenvolvedores, em vez de apenas uma seleta equipe de desenvolvimento. Além disso, a principal vantagem do software livre é a soberania individual e alta personalização que eles trazem.
+
+A exemplo de projetos open source, temos o Linux, o sistema operacional que roda na esmagadora maioria dos servidores e que possibita que a infraestrutura da internet funcione. O Linux trouxe ao mundo uma infinidade de sistemas operacionais para todos os gostos e necessidades, desde super computadores até o Android, o sistema mais usado do mundo feito com base no linux. Outro grande projeto open source são os navegadores Firefox e Chromium, existe quase 100% de chance de você já ter usado um navegador baseado em um desses dois.
 
 ## Referências
 
